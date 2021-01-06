@@ -67,11 +67,9 @@ l1.place(x=240, y=270)
 w = tk.Label(top, text="Youtube Video Downloader", font=("Segoe Script", 16))
 w.place(x=450, y=0)
 e1 = tk.Entry(top)
-
 e1.place(x=350, y=250)
 
 e2 = tk.Entry(top)
-
 e2.place(x=350, y=270)
 
 scrollbar = tk.Scrollbar(top)
